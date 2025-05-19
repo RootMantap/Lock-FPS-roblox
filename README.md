@@ -1,4 +1,4 @@
-# 🎮 Roblox LOCK FPS Control Panel { BETA VERSION }
+# 🎮 Roblox LOCK FPS Control Panel { BETA }
 
 **FPS Control Panel** adalah sebuah UI interaktif berbasis Roblox Lua (LocalScript) yang memungkinkan pemain untuk memantau dan mengatur batasan FPS secara langsung di dalam game Roblox. Panel ini sangat berguna bagi developer maupun pemain yang ingin menjaga performa game tetap stabil atau mengoptimalkan kinerja sesuai spesifikasi perangkat.
 
